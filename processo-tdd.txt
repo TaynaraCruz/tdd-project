@@ -1,0 +1,9 @@
+Ao utilizar dois tipos de teste no sistema o processo fica mais complicado. Estamos usando testes funcionais e testes de unidade logo o processo é o seguinte:
+-Escreva um teste funcional e o execute. 
+-Se o teste funcional passar verifique se o código precisa ser refatorado.
+-Se o teste funcional não passar ou se o código precisa ser refatorado faça as mudanças necessárias no código. Nessa etapa entram os testes de unidade.
+  -Escreva um teste de unidade e o execute.
+  -Se o teste de unidade passar verifique se o código precisa ser refatorado.
+  -Se o teste de unidade não passar ou se o código precisa ser refatorado faça as mudanças necessárias no código. Nesta etapa as mudanças são bem menores.
+  -Se o teste de unidade passar e o código não precisa ser refatorado o teste de unidade está completo. O teste funcional pode ser executado novamente.
+-Se o teste funcional passar e o código não precisa ser refatorado o teste está completo. O próximo teste funcional pode começar a ser implementado.
