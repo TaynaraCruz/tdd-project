@@ -1,0 +1,7 @@
+Testes de unidade: 
+-São feitos para testar funções pequenas e independentes do código.
+-São baratos e rápidos.
+
+Testes funcionais: 
+-São feitos para testar uma funcionalidade do sistema do ponto de vista do usuário.
+-São caros e demorados. Uma pequena mudança na interface do sistema pode demandar a reimplementação dos testes funcionais. 
